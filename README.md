@@ -1,4 +1,4 @@
-# Introduction to Machine Learning (10-601) - Spring 2025
+# Introduction to Machine Learning (10-601) - Fall 2024
 
 Welcome to the repository for **Introduction to Machine Learning (10-601)**, Carnegie Mellon University, instructed by **Henry Chai** and **Matt Gormley**. This repository contains all homework assignments, notes, and supplementary materials for the course. The goal of this repository is to serve as a centralized and well-organized hub for students' reference.
 
