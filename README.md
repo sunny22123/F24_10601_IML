@@ -11,6 +11,7 @@ This course covers the theoretical and practical aspects of machine learning, pr
 - Classification and Regression
 - Decision Trees and Model Selection
 - Neural Networks and Deep Learning
+- Reinforcement Learning and Q-Learning
 - PAC Learning and Learning Theory
 - Societal Impacts of Machine Learning
 
