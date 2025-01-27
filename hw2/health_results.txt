@@ -1,0 +1,4 @@
+Max-Depth: 0, Train Error: 0.4900, Test Error: 0.4021
+Max-Depth: 1, Train Error: 0.2150, Test Error: 0.2784
+Max-Depth: 2, Train Error: 0.2150, Test Error: 0.2784
+Max-Depth: 4, Train Error: 0.1250, Test Error: 0.2371
